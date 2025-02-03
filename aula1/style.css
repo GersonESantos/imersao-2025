@@ -17,11 +17,7 @@ h1{
     width:300px;
 }
 
-.sidebar__navigation{
-    background-color: #121212;
-    border-radius:8px;
-    padding:16px 0 0 16px;
-}
+
 
 .logo{
     background: #121212;
@@ -32,7 +28,11 @@ h1{
 .logo img{
     width: 50px;
 }
-
+.sidebar__navigation{
+    background-color: #121212;
+    border-radius: 8px;
+    padding: 16px 0 0 16px;
+}
 .sidebar__navigation .logo img{
     width:80px;
 }
