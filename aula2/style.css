@@ -73,3 +73,26 @@ h1{
     display: flex;  
     
 }
+.library .library__button{
+    display: flex;
+    margin-right: 10px;
+    color: #b3b3b3;
+    background-color: transparent;
+    border: 0px;
+    font-size: 14px;
+    font-weight: 700;
+    font-family: "DM Sans", sans-serif;
+    text-align: center;
+    text-decoration: none;
+    padding: 20px 10px;
+    width: 20px;
+}
+.library .library__button .fa {
+    font-size: 20px;
+    margin-right: 10px;
+    background-color: #1f1f1f;
+    border-radius: 8px;
+    color: #b3b3b3;
+}
+.library .library__content .fa-plus {
+    margin: 1.5rem 0.625rem; /* 24px, 10px para rem */
